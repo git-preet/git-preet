@@ -13,13 +13,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=git-preet&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/pyu64h90ml0w903pe0tfq8fr0">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=pyu64h90ml0w903pe0tfq8fr0&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
